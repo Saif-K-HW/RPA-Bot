@@ -1,0 +1,21 @@
+﻿Customer ID,Preferred Category,Purchase Frequency,Avg Spend (AED),Days Since Last Purchase,Loyalty Points,Visits,Wishlist,Coupon Response,Channel,Recent Purchase,Recommended Campaign
+C001,Dresses,High,850,12,1200,10,Dresses,Low,Email,Dresses,VIP Early Access
+C002,Shoes,Medium,420,18,700,14,Shoes,High,SMS,Footwear,10% Discount
+C003,Accessories,Low,210,45,250,9,Bags,High,Email,Accessories,Win-Back Offer
+C004,Dresses,High,900,7,1400,11,Dresses,Low,App,Dresses,VIP Early Access
+C005,Tops,Medium,350,22,620,12,Tops,Medium,Email,Tops,Bundle Offer
+C006,Shoes,Low,190,60,180,8,Shoes,High,SMS,None,Win-Back Offer
+C007,Bags,Medium,500,16,760,15,Bags,Medium,App,Accessories,Wishlist Reminder
+C008,Dresses,Medium,610,14,830,13,Dresses,Low,Email,Dresses,Early Access
+C009,Accessories,Low,160,75,120,6,Jewellery,High,SMS,None,Win-Back Offer
+C010,Shoes,High,780,10,1100,9,Shoes,Medium,App,Footwear,Premium Recommendation
+C011,Tops,Medium,300,20,540,11,Tops,High,Email,Tops,10% Discount
+C012,Bags,High,820,9,1250,16,Bags,Low,App,Bags,VIP Early Access
+C013,Dresses,Low,240,55,220,7,Dresses,High,SMS,Dresses,Win-Back Offer
+C014,Shoes,Medium,460,19,690,12,Shoes,Medium,Email,Footwear,Bundle Offer
+C015,Accessories,High,740,11,1080,14,Bags,Low,App,Accessories,Premium Recommendation
+C016,Tops,Low,180,80,100,5,None,High,SMS,None,Win-Back Offer
+C017,Dresses,High,930,6,1500,18,Dresses,Low,App,Dresses,VIP Early Access
+C018,Bags,Medium,520,17,780,13,Bags,Medium,Email,Bags,Wishlist Reminder
+C019,Shoes,Low,230,50,260,8,Shoes,High,SMS,Footwear,Win-Back Offer
+C020,Tops,High,690,13,980,12,Tops,Low,Email,Tops,Early Access
