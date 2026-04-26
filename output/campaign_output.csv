@@ -1,0 +1,21 @@
+Customer ID,Assigned Campaign Type,Preferred Delivery Channel,Suggested Campaign Action,VIP Score,Discount Score,Win-Back Score,Reason,Status,Matches Task 1 Recommendation
+C001,VIP Early Access,Email,Send VIP early access message,3,0,0,High value and high loyalty customer,Ready for review,Yes
+C002,10% Discount,SMS,Send 10% discount offer,0,2,0,Medium engagement with strong coupon response,Ready for review,Yes
+C003,Win-Back Offer,Email,Send win-back promotion,0,1,2,Low activity and long purchase gap,Ready for review,Yes
+C004,VIP Early Access,App,Send VIP early access message,3,0,0,High value and high loyalty customer,Ready for review,Yes
+C005,Bundle Offer,Email,Send bundle offer,0,1,0,Medium engagement suitable for bundle promotion,Ready for review,Yes
+C006,Win-Back Offer,SMS,Send win-back promotion,0,1,2,Low activity and long purchase gap,Ready for review,Yes
+C007,Wishlist Reminder,App,Send wishlist reminder,0,1,0,Strong wishlist interest and browsing activity,Ready for review,Yes
+C008,Early Access,Email,Send early access message,0,1,0,Active customer suitable for early access,Ready for review,Yes
+C009,Win-Back Offer,SMS,Send win-back promotion,0,1,2,Low activity and long purchase gap,Ready for review,Yes
+C010,Premium Recommendation,App,Send premium recommendation message,2,0,0,Strong customer profile just below VIP threshold,Ready for review,Yes
+C011,10% Discount,Email,Send 10% discount offer,0,2,0,Medium engagement with strong coupon response,Ready for review,Yes
+C012,VIP Early Access,App,Send VIP early access message,3,0,0,High value and high loyalty customer,Ready for review,Yes
+C013,Win-Back Offer,SMS,Send win-back promotion,0,1,2,Low activity and long purchase gap,Ready for review,Yes
+C014,Bundle Offer,Email,Send bundle offer,0,1,0,Medium engagement suitable for bundle promotion,Ready for review,Yes
+C015,Premium Recommendation,App,Send premium recommendation message,2,0,0,Strong customer profile just below VIP threshold,Ready for review,Yes
+C016,Win-Back Offer,SMS,Send win-back promotion,0,1,2,Low activity and long purchase gap,Ready for review,Yes
+C017,VIP Early Access,App,Send VIP early access message,3,0,0,High value and high loyalty customer,Ready for review,Yes
+C018,Wishlist Reminder,Email,Send wishlist reminder,0,1,0,Strong wishlist interest and browsing activity,Ready for review,Yes
+C019,Win-Back Offer,SMS,Send win-back promotion,0,1,2,Low activity and long purchase gap,Ready for review,Yes
+C020,Early Access,Email,Send early access message,1,0,0,Active customer suitable for early access,Ready for review,Yes
